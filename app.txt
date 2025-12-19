@@ -1,3 +1,4 @@
 "Version initiale de l'application." 
 "Ajout de la fonctionnalit‚ 1." 
 "Ligne modifi‚e par A." 
+"Ligne modifi‚e par B." 
